@@ -1,4 +1,4 @@
-# Surgery Simulation Workshop 3
+# Surgery Simulation Project
 
 A straightforward simulation of a hospital surgery unit where patients go through:  
 **Waiting → Preparation → Surgery → Recovery**
