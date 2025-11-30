@@ -7,12 +7,11 @@ This project analyzes how the number of preparation and recovery rooms affects:
 - Operating theatre blocking (when no recovery bed is available)
 - System performance and statistical precision of estimates
 
----
 
-### Project Structure
-SurgerySimulationAssignment/
+# Project Structure
+workshop_3_simulation/
 │
-├── surgery_model.py          # Core simulation logic (clean & original)
+├── surgery_simulation.py          # Core simulation logic (clean & original)
 ├── run_analysis.py           # Runs 20 replications for all configurations
 ├── analyze_results.py        # Complete statistical analysis + answers
 ├── results/                  # Auto-generated folder with CSV results
