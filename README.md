@@ -1,7 +1,6 @@
 # Surgery Simulation Project - TIES481 Assignment 3 
 **University of Jyväskylä (JYU), Finland**  
 **Course:** Simulation (2025)  
-**Assignment:** 2 – Process-Based Discrete Event Simulation  
 **Authors:** Onuoha Declan ¦ Wajahat Haider 
 
 # Overview
