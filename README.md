@@ -11,7 +11,7 @@ A straightforward simulation of a hospital surgery unit where patients go throug
 There is **only 1 operating room** and **no waiting space** between surgery and recovery.  
 If all recovery beds are full when a surgery ends, the operating room gets **blocked** until a bed becomes free.
 
-## Completed tasks (project requirements)
+## Completed tasks (Assignment requirements)
 
 - 3 configurations tested: **3p4r**, **3p5r**, **4p5r**
 - Exponential times: arrival (25), prep (40), surgery (20), recovery (40)
