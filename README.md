@@ -44,7 +44,7 @@ Arrival = 25 | Prep = 40 | Surgery = 20 | Recovery = 40
 ---
 
 
-## How to Run (Takes ~2–3 minutes)
+## How to Run 
 
 ```bash
 # Install required packages (once)
@@ -56,4 +56,8 @@ python run_analysis.py
 # See full results with confidence intervals
 python analyze_results.py
 ```
+Configuration,Avg Queue Length,Blocking Probability,Notes
+3p4r,~0.31,~4.0%,High blocking
+3p5r,~0.31,~0.9%,Much better!
+4p5r,~0.05,~0.8%,Shortest queue
 
