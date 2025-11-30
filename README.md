@@ -2,7 +2,7 @@
 **University of Jyväskylä (JYU), Finland**  
 **Course:** Simulation (2025)  
 **Assignment:** 2 – Process-Based Discrete Event Simulation  
-**Author:** Onuoha Declan ¦ Wajahat Haider 
+**Authors:** Onuoha Declan ¦ Wajahat Haider 
 
 # Overview
 A straightforward simulation of a hospital surgery unit where patients go through:  
