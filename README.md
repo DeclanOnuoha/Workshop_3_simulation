@@ -61,3 +61,9 @@ Configuration,Avg Queue Length,Blocking Probability,Notes
 3p5r,~0.31,~0.9%,Much better!
 4p5r,~0.05,~0.8%,Shortest queue
 
+## Answers to the Questions
+- Point estimates & 95% confidence intervals → shown clearly in analyze_results.py
+- Significant differences? → Yes! Both adding a recovery bed and adding a prep room make a big, statistically significant improvement
+- Paired comparison (same seeds) → Makes differences even clearer and more significant
+- "All recovery beds busy" vs actual blocking → Easier and more reliable to measure (smaller confidence interval), especially when blocking is rare
+
